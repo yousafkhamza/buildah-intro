@@ -24,7 +24,7 @@ Buildah is a tool for building OCI-compatible images through a lower-level Coreu
 
 ## How to install Docker and Buildah
 
-- [Docker installtion]("https://docs.docker.com/engine/install/ubuntu/") 
+- [Docker installtion](https://docs.docker.com/engine/install/ubuntu/) 
 - [Buildah installation](https://github.com/containers/buildah/blob/main/install.md)
 
 ---
