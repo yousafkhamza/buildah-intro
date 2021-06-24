@@ -163,6 +163,12 @@ go                    1         d0f1876010cf   About an hour ago   6.35MB
 hello world                           <------------- output
 ```
 
+----
+## Architecture
+
+![alt text](https://i.ibb.co/17LbSZn/fig3.png)
+
+----
 ## Conclusion
 
 Just introduce a RedHat-based tool for docker image creation. Also, you guys can see how to reduce the image size using a multi staging docker file.
